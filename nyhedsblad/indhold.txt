@@ -1,0 +1,9 @@
+Indhold Nyhedsblad
+
+kolofon, bladoversigt/blade, artikler_essays, nyeste_nr, bestil, PDF
+
+Forside: kolofon
+menu: medlemskab, link til nyt blad, link til bladoversigt, link til artikler_essays
+
+Blad: frameset med menu, indexside (+PDF) og emneopdelte sider med bogmærker
+

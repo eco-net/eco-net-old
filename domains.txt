@@ -1,0 +1,14 @@
+www.koldingmanifestet.dk	HTML
+www.hjulhakken.dk		HTML
+www.hjulhakke.dk		HTML
+www.danmarksdeklarationen.dk	HTML
+www.cdbu.dk			ASP
+www.ubu10.dk			ASP
+web.eco-net.dk			ASP - feed til www.eco-net.dk
+www.sustainabledevelopment.dk	ASP
+insider.eco-info.dk		ASP
+www.insider.eco-info.dk		ASP
+sitemanager.eco-net.dk		ASP
+www.bu.dk			ASP
+www.eco-info.dk			ASP
+www.grøntoverblik.dk		ASP

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsBlad" value="name:id;datatype:int,name:nr;datatype:int,name:aargang;datatype:varchar,name:dato;datatype:varchar,name:createdate;datatype:smalldatetime,name:modidate;datatype:smalldatetime,name:descr;datatype:varchar,name:title;datatype:varchar,name:chosen;datatype:smallint,name:pdf;datatype:varchar" />
+</info>

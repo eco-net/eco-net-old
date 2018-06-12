@@ -1,0 +1,1 @@
+<img src="/shared/graphics/spacer.gif" width="5" height="10"><a href="index.asp">Nyeste Blad</a> | <a href="kolofon.asp">Kolofon</a> | <a href="annoncering.asp">Annoncering</a>

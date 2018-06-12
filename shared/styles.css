@@ -1,0 +1,118 @@
+a:link {
+	text-decoration: none;
+	color: Purple;
+}
+
+a:active {
+	text-decoration: none;
+	
+}
+
+a:visited {
+	text-decoration: none;
+	color: Maroon;
+}
+
+a:hover {
+	color: Green;
+}
+
+
+BODY {
+	background-color: #FAFAF4
+}
+
+BODY, TABLE, TD {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+.txt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+.sitetag {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #5D678A;
+}
+
+.footer {
+	font-size: 10px;
+	color: #666666}
+
+
+.menuBar {
+	background-color: #BDCE5A;
+	padding: 3px;
+; text-align: center
+}
+
+.sidebarHeaderBox {
+	background-color: #CD9933;
+}
+
+.sidebarHeader {
+	font-weight: bold;
+	font-size: 11px;
+	color: #8C9D4B;
+	text-align : left;
+}
+
+.homeBigbox {
+	background-color: #CD9933;
+}
+
+
+.homeSmallbox {
+	background-color: #CCCC98;
+}
+
+.contentHeader1 {
+	font-size: 15px;
+	vertical-align: bottom;
+	font-weight: bold;
+	line-height: 22px;
+}
+
+.contentHeader2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	vertical-align: middle;
+	font-weight: bold;
+	line-height: 15px;
+	font-size: 12px
+}
+
+
+.listheader {
+	font-weight: bold;
+	font-size: 11px
+}
+
+
+.faktaboksheader {
+	font-weight: bold;
+}
+
+
+.formInputobject {
+	font-size: 9px; 
+	width: 150px;
+}
+
+.formSubmitbutton {
+	font-size: 10px;
+	width: 60px;
+	font-weight : bold;
+}
+
+.formbutton {
+	font-size: 10px;
+	width: 60px
+}
+
+.formLabeltext {
+	font-weight: bold;
+}
+
+.formTextfieldObject { font-size: 11px; width: 150px; }

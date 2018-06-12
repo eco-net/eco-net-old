@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsPageData" value="name:aargang;datatype:varchar,name:nr;datatype:int,name:dato;datatype:varchar,name:pdf;datatype:varchar,name:title;datatype:varchar,name:id;datatype:int,name:linktekst;datatype:varchar,name:art_id;datatype:int,name:orden;datatype:int,name:chosen;datatype:smallint,name:img_id;datatype:int" />
+	<infoitem key="UD_rsBlade" value="name:id;datatype:int,name:nr;datatype:int,name:aargang;datatype:varchar,name:dato;datatype:varchar" />
+</info>

@@ -1,0 +1,90 @@
+
+<table width="388" border="0" cellspacing="0" cellpadding="0">
+                
+<tr> 
+                  
+<td><img src="/shared/graphics/big_dummy_pict.jpg" width="258" height="200"></td>
+<td valign="top" class="homeBigbox"> 
+                    
+<table width="100%" border="0" cellspacing="0" cellpadding="7">
+                      
+<tr> 
+                        
+<td><span class="contentHeader2">Header</span><br>
+                          Lorem ipsum dolor sit amet, consectetuer adipiscing 
+                          elit, sed diam nonummy nibh euismod tincidunt ut laoreet 
+                          dolore.<br>
+                          <br>
+                          L&aelig;s mere...</td>
+</tr>
+                    
+</table>
+</td>
+</tr>
+                
+<tr> 
+                  
+<td background="/shared/graphics/layout/dots_horz.gif" height="1" colspan="3"><img src="/shared/graphics/spacer.gif" width="3" height="1"></td>
+</tr>
+              
+</table>
+<table width="388" border="0" cellspacing="0" cellpadding="0">
+                
+<tr> 
+                  
+<td><img src="/shared/graphics/dummy_pict.jpg" width="128" height="90"></td>
+<td rowspan="2" background="/shared/graphics/layout/dots_vert.gif" width="1"><br>
+                  </td>
+<td><img src="/shared/graphics/dummy_pict.jpg" width="129" height="90"></td>
+<td rowspan="2" background="/shared/graphics/layout/dots_vert.gif" width="1"><br>
+                  </td>
+<td><img src="/shared/graphics/dummy_pict.jpg" width="129" height="90"></td>
+</tr>
+                
+<tr> 
+                  
+<td valign="top"> 
+                    
+<table width="100%" border="0" cellspacing="0" cellpadding="5">
+                      
+<tr> 
+                        
+<td><span class="faktaboksheader">Heading</span><br>
+                          Lorem ipsum dolor sit amet, consectetuer adipiscing 
+                          elit, sed diam nonummy nibh euismod tincidunt ut laoreet 
+                          dolore magna aliquam erat volutpat. Ut wi<br>
+                          <br>
+                        </td>
+</tr>
+                    
+</table>
+</td>
+<td valign="top"> 
+                    
+<table width="100%" border="0" cellspacing="0" cellpadding="5">
+                      
+<tr> 
+                        
+<td><span class="faktaboksheader">Heading</span><br>
+                          Lorem ipsum dolor sit amet, consectetuer adipiscing 
+                          elit, sed diam nonummy nibh </td>
+</tr>
+                    
+</table>
+</td>
+<td valign="top"> 
+                    
+<table width="100%" border="0" cellspacing="0" cellpadding="5">
+                      
+<tr> 
+                        
+<td><span class="faktaboksheader">Heading</span><br>
+                          Lorem ipsum dolor sit amet, consectetuer adipiscing 
+                          elit, sed diam nonummy </td>
+</tr>
+                    
+</table>
+</td>
+</tr>
+              
+</table>
